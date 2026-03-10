@@ -233,9 +233,9 @@ This project is available for educational and analytical purposes.
 ## 👤 Author
 
 **Vineet Patel**
-- Email: vineetpatel468@gmail.com
-- GitHub: [@vineet416](https://github.com/vineet416)
-- LinkedIn: [@vineet416](https://www.linkedin.com/in/vineet416/)
+- Email: arunkumarar58@gmail.com
+- GitHub: [@arunkumarar45](https://github.com/arunkumarar45)
+- LinkedIn: [@arunkumarar](https://www.linkedin.com/in/arun-kumar-a-r-49514b307)
 
 ## 📧 Contact
 
