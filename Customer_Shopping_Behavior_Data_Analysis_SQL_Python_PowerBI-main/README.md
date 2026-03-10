@@ -232,7 +232,7 @@ This project is available for educational and analytical purposes.
 
 ## 👤 Author
 
-**Vineet Patel**
+**Arun Kumar A R**
 - Email: arunkumarar58@gmail.com
 - GitHub: [@arunkumarar45](https://github.com/arunkumarar45)
 - LinkedIn: [@arunkumarar](https://www.linkedin.com/in/arun-kumar-a-r-49514b307)
